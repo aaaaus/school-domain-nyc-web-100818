@@ -31,16 +31,4 @@ end
 =======
 class School
 
-roster = {}
-
-def add_student
-end
-
-def grade
-end
-
-def sort
-end
-
-end
 >>>>>>> 8a4f3f63cb0b46b83a758e70f7ce2bf21d037b32
